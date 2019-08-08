@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3036c505-2795-4aca-add3-0bdb2df001d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/.idea/libraries/junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/English.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/Ukraine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/.idea/artifacts/suminwords_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/out/artifacts/suminwords_jar/suminwords.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/out/production/suminwords/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/suminwords/suminwords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/test/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/test/test/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/test/test/test/test/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suminwords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/EnglishTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/UkraineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/EnglishTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/UkraineTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/test/test/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Oxpcv8a5d2vTmKEHB2zou9SHii" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="English" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="English" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnglishTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnglishTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnglishTest.inwords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnglishTest" />
+      <option name="METHOD_NAME" value="inwords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.English" />
+      <item itemvalue="JUnit.test in test" />
+      <item itemvalue="JUnit.EnglishTest" />
+      <item itemvalue="JUnit.EnglishTest.inwords" />
+      <item itemvalue="JUnit.MainTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.English" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.EnglishTest.inwords" />
+        <item itemvalue="JUnit.EnglishTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3036c505-2795-4aca-add3-0bdb2df001d7" name="Default Changelist" comment="" />
+      <created>1564929184750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564929184750</updated>
+      <workItem from="1564929188293" duration="57000" />
+      <workItem from="1564931202381" duration="70000" />
+      <workItem from="1565197278022" duration="1433000" />
+      <workItem from="1565198719431" duration="127000" />
+      <workItem from="1565198870911" duration="123000" />
+      <workItem from="1565199211926" duration="191000" />
+      <workItem from="1565199695398" duration="9286000" />
+      <workItem from="1565248858871" duration="20582000" />
+      <workItem from="1565286175182" duration="59000" />
+      <workItem from="1565286248090" duration="77000" />
+      <workItem from="1565286403388" duration="11000" />
+      <workItem from="1565286439918" duration="130000" />
+      <workItem from="1565286641881" duration="163000" />
+      <workItem from="1565287136518" duration="88000" />
+      <workItem from="1565287342584" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/suminwords" />
+    </ignored-roots>
+  </component>
+</project>

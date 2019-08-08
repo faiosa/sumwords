@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="suminwords:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/suminwords_jar</output-path>
+    <root id="archive" name="suminwords.jar">
+      <element id="module-output" name="suminwords" />
+    </root>
+  </artifact>
+</component>
